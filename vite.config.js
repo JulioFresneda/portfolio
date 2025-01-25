@@ -6,13 +6,6 @@ export default defineConfig({
   plugins: [react()],
   build: {
     outDir: 'dist',
-    rollupOptions: {
-      input: {
-        main: './index.html',
-      },
-    },
-  },
-  resolve: {
-    extensions: ['.js', '.jsx']
+    assetsDir: 'assets',
   }
 })
