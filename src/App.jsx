@@ -31,8 +31,8 @@ function App() {
     
     {
       name: "AutoActa",
-      description: "Automation tool that streamlines the creation of meeting minutes and documentation. Features smart formatting, template management, and support for multiple document formats.",
-      tags: ["Python", "Automation", "Doc Processing"],
+      description: "AutoActa is your personal secretary. It summarizes your conversation, gives you the key points and future tasks talked about, and the complete transcription.",
+      tags: ["Kotlin", "LLM", "Containers", "AWS"],
       repoUrl: "https://github.com/JulioFresneda/AutoActa",
       imageUrl: "https://raw.githubusercontent.com/JulioFresneda/AutoActa/refs/heads/master/screenshot.jpeg" // Replace with your actual image
     },
