@@ -34,7 +34,7 @@ function App() {
       description: "Automation tool that streamlines the creation of meeting minutes and documentation. Features smart formatting, template management, and support for multiple document formats.",
       tags: ["Python", "Automation", "Doc Processing"],
       repoUrl: "https://github.com/JulioFresneda/AutoActa",
-      imageUrl: "/api/placeholder/800/400" // Replace with your actual image
+      imageUrl: "https://raw.githubusercontent.com/JulioFresneda/AutoActa/refs/heads/master/screenshot.jpeg" // Replace with your actual image
     },
     {
       name: "PadelClips",
